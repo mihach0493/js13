@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(209, 188, 149);
+}
+
+h1 {
+color: rgb(195, 245, 101);
+}
+
+span.specific {
+    color: #bd8c8d
+}
+
+.dodaj, .usun {
+    height: 75px; 
+    width: 75px;
+}
