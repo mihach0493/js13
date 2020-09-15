@@ -1,20 +1,12 @@
 let myHeading = document.querySelector('button');
-myHeading.textContent = 'dodaj';
 
-myHeading.onclick = function () {
-    alert('Lorem ipsum dolor sit')
+let buttonAdd = document.querySelector('#dodaj');
+let buttonRemove = document.querySelector('#usun');
+
+buttonAdd.onclick = function () {
+
+   
 }
-console.log(myHeading);
-
-
-
-let text = document.querySelector('button');
-text.textContent = 'usun';
-
-text.onclick = function () {
-    alert()
-}
-console.log(text);
 
 
 
